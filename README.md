@@ -1,24 +1,24 @@
-# 👋 Hey, I'm Nisha!
+---
 
-### [Innovating with Technology to Shape the Future](#)
+### 💫 About Me:
 
-**Problem Solver | Tech Explorer | Aspiring Full-Stack Developer**
+Hello there! I'm **Nisha Asabe**, a tech enthusiast and final year B.Tech student, fueled by curiosity and a drive to solve real-world challenges through technology. Whether it's designing intuitive user interfaces or tackling complex data problems, I’m passionate about creating solutions that make an impact.
+
+🚀 Current Focus: Sharpening my skills in the MERN Stack and exploring AI & Cybersecurity to build innovative, secure, and intelligent web applications.
+🎵 When I'm not coding, you'll find me vibing to music or exploring something creative—it’s my go-to source of inspiration!
 
 ---
 
-I'm **Nisha Asabe**, a tech enthusiast and 3rd-year B.Tech student, fueled by curiosity and a drive to learn.
-Whether it's designing intuitive user interfaces or solving real-world problems with ML/AI, I’m always eager to take on challenges that make an impact.
-
-🔭 Currently building MERN stack projects  
-🌱 Learning AI, Cybersecurity & Advanced DSA  
-🎯 Goal: To contribute to impactful open-source projects  
-🎵 When not coding, you'll find me vibing to music or reading tech blogs.
+### 💻 Tech Stack:
 
 ---
 
+### 📊 My GitHub Stats
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nisha-asabe-214670293)
+---
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/NishaAsabe123/)
+### 🏆 GitHub Trophies
 
+---
+
+### 🌐 Connect with Me:
