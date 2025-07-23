@@ -29,20 +29,12 @@ Hello there! I'm **Nisha Asabe**, a tech enthusiast and final year B.Tech studen
 
 ---
 
-### 📊 My GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Nisha-Asabe&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nisha-Asabe&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha-Asabe&theme=radical&hide_border=false&layout=compact)
-
----
-
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nisha-Asabe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nisha-asabe-214670293)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/NishaAsabe123/)
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=GeeksforGeeks)](https://www.geeksforgeeks.org/user/ntasabe/)
