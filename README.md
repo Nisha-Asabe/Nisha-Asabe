@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Nisha!
 
+### [Innovating with Technology to Shape the Future](#)
+
 **Problem Solver | Tech Explorer | Aspiring Full-Stack Developer**
 
 ---
@@ -13,6 +15,7 @@ Whether it's designing intuitive user interfaces or solving real-world problems 
 🎵 When not coding, you'll find me vibing to music or reading tech blogs.
 
 ---
+
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nisha-asabe-214670293)
