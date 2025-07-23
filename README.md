@@ -9,7 +9,7 @@
 ---
 
 ### 💫 About Me:
-Hello there! I'm **Nisha Asabe**, a tech enthusiast and 3rd-year B.Tech student, fueled by curiosity and a drive to solve real-world challenges through technology. Whether it's designing intuitive user interfaces or tackling complex data problems, I’m passionate about creating solutions that make an impact.
+Hello there! I'm **Nisha Asabe**, a tech enthusiast and final year B.Tech student, fueled by curiosity and a drive to solve real-world challenges through technology. Whether it's designing intuitive user interfaces or tackling complex data problems, I’m passionate about creating solutions that make an impact.
 
 🚀 Current Focus: Sharpening my skills in the MERN Stack and exploring AI & Cybersecurity to build innovative, secure, and intelligent web applications.<br>
 🎵 When I'm not coding, you'll find me vibing to music or exploring something creative—it’s my go-to source of inspiration!<br>
@@ -31,14 +31,14 @@ Hello there! I'm **Nisha Asabe**, a tech enthusiast and 3rd-year B.Tech student,
 
 ### 📊 My GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=NishaAsabe123&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NishaAsabe123&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NishaAsabe123&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Nisha-Asabe&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nisha-Asabe&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha-Asabe&theme=radical&hide_border=false&layout=compact)
 
 ---
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NishaAsabe123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nisha-Asabe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
